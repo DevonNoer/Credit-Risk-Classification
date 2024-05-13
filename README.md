@@ -11,6 +11,7 @@ Machine Learning Model 0 (healthy loan):
 - Accuracy: 1.00
 - Precision: 1.00
 - Recall: 0.99
+
 Machine learning Model 1 (high risk loan):
 - Accuracy: 0.88
 - Precision: 0.85
